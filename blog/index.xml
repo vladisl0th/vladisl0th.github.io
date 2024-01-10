@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on lsnk inc</title>
+    <link>https://vladisl0th.github.io/blog/</link>
+    <description>Recent content in Blog on lsnk inc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 10 Jan 2024 11:26:51 +0000</lastBuildDate>
+    <atom:link href="https://vladisl0th.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0.helloworld</title>
+      <link>https://vladisl0th.github.io/blog/0.helloworld/</link>
+      <pubDate>Wed, 10 Jan 2024 11:26:51 +0000</pubDate>
+      <guid>https://vladisl0th.github.io/blog/0.helloworld/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
