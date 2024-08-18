@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vladisl0th.github.io/tags/beginner/</loc>
+    <loc>http://localhost:1313/tags/beginner/</loc>
     <lastmod>2024-01-23T11:26:51+00:00</lastmod>
   </url><url>
-    <loc>https://vladisl0th.github.io/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-01-23T11:26:51+00:00</lastmod>
   </url><url>
-    <loc>https://vladisl0th.github.io/blog/0.helloworld/</loc>
+    <loc>http://localhost:1313/blog/0.helloworld/</loc>
     <lastmod>2024-01-23T11:26:51+00:00</lastmod>
   </url><url>
-    <loc>https://vladisl0th.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-01-23T11:26:51+00:00</lastmod>
   </url><url>
-    <loc>https://vladisl0th.github.io/tags/tutorial/</loc>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
     <lastmod>2024-01-23T11:26:51+00:00</lastmod>
   </url><url>
-    <loc>https://vladisl0th.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-01-23T11:26:51+00:00</lastmod>
   </url><url>
-    <loc>https://vladisl0th.github.io/tags/webdev/</loc>
+    <loc>http://localhost:1313/tags/webdev/</loc>
     <lastmod>2024-01-23T11:26:51+00:00</lastmod>
   </url><url>
-    <loc>https://vladisl0th.github.io/about/about/</loc>
+    <loc>http://localhost:1313/about/about/</loc>
     <lastmod>2024-01-10T10:07:58+00:00</lastmod>
   </url><url>
-    <loc>https://vladisl0th.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-01-10T10:07:58+00:00</lastmod>
   </url><url>
-    <loc>https://vladisl0th.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

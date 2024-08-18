@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beginner on vladisl0th</title>
-    <link>https://vladisl0th.github.io/tags/beginner/</link>
+    <link>http://localhost:1313/tags/beginner/</link>
     <description>Recent content in Beginner on vladisl0th</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 23 Jan 2024 11:26:51 +0000</lastBuildDate>
-    <atom:link href="https://vladisl0th.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIGA</title>
-      <link>https://vladisl0th.github.io/blog/0.helloworld/</link>
+      <link>http://localhost:1313/blog/0.helloworld/</link>
       <pubDate>Tue, 23 Jan 2024 11:26:51 +0000</pubDate>
-      <guid>https://vladisl0th.github.io/blog/0.helloworld/</guid>
+      <guid>http://localhost:1313/blog/0.helloworld/</guid>
       <description>Make Internet Great Again! Parable of Two Webs Once upon a time in a digital land, there were two World Wide Webs, each unique and reflecting the lives of those who wandered through them.&#xA;In the first web, there lived a person named Alex. Alex’s web was a vibrant and colourful place, filled with the wonders of knowledge and creativity. This web was a mirror of Alex’s life – organized, curious, and always seeking to learn.</description>
     </item>
   </channel>
