@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on vladisl0th</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://vladisl0th.github.io/tags/</link>
     <description>Recent content in Tags on vladisl0th</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 23 Jan 2024 11:26:51 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vladisl0th.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginner</title>
-      <link>http://localhost:1313/tags/beginner/</link>
+      <link>https://vladisl0th.github.io/tags/beginner/</link>
       <pubDate>Tue, 23 Jan 2024 11:26:51 +0000</pubDate>
-      <guid>http://localhost:1313/tags/beginner/</guid>
+      <guid>https://vladisl0th.github.io/tags/beginner/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
+      <link>https://vladisl0th.github.io/tags/tutorial/</link>
       <pubDate>Tue, 23 Jan 2024 11:26:51 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <guid>https://vladisl0th.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>WebDev</title>
-      <link>http://localhost:1313/tags/webdev/</link>
+      <link>https://vladisl0th.github.io/tags/webdev/</link>
       <pubDate>Tue, 23 Jan 2024 11:26:51 +0000</pubDate>
-      <guid>http://localhost:1313/tags/webdev/</guid>
+      <guid>https://vladisl0th.github.io/tags/webdev/</guid>
       <description></description>
     </item>
   </channel>

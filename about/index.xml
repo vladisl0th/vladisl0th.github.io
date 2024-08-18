@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on vladisl0th</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://vladisl0th.github.io/about/</link>
     <description>Recent content in About on vladisl0th</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 10 Jan 2024 10:07:58 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vladisl0th.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/about/about/</link>
+      <link>https://vladisl0th.github.io/about/about/</link>
       <pubDate>Wed, 10 Jan 2024 10:07:58 +0000</pubDate>
-      <guid>http://localhost:1313/about/about/</guid>
+      <guid>https://vladisl0th.github.io/about/about/</guid>
       <description>Hack The Planet! So I have finally decided to join the ranks of web developers, ditching the previous notion of using bloated dynamic sites (I&amp;rsquo;m looking at you WordPress), I have circum to suckless web development and I can finally focus on writing instead of having to centre divs.&#xA;If you don&amp;rsquo;t already know me, I am Vlad. I like computers, this website will serve as a repository for my personal notes and explorations into the vast and vastly exciting world of computer science, and beyond!</description>
     </item>
   </channel>

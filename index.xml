@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vladisl0th</title>
-    <link>http://localhost:1313/</link>
+    <link>https://vladisl0th.github.io/</link>
     <description>Recent content on vladisl0th</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 23 Jan 2024 11:26:51 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vladisl0th.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIGA</title>
-      <link>http://localhost:1313/blog/0.helloworld/</link>
+      <link>https://vladisl0th.github.io/blog/0.helloworld/</link>
       <pubDate>Tue, 23 Jan 2024 11:26:51 +0000</pubDate>
-      <guid>http://localhost:1313/blog/0.helloworld/</guid>
+      <guid>https://vladisl0th.github.io/blog/0.helloworld/</guid>
       <description>Make Internet Great Again! Parable of Two Webs Once upon a time in a digital land, there were two World Wide Webs, each unique and reflecting the lives of those who wandered through them.&#xA;In the first web, there lived a person named Alex. Alex’s web was a vibrant and colourful place, filled with the wonders of knowledge and creativity. This web was a mirror of Alex’s life – organized, curious, and always seeking to learn.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/about/about/</link>
+      <link>https://vladisl0th.github.io/about/about/</link>
       <pubDate>Wed, 10 Jan 2024 10:07:58 +0000</pubDate>
-      <guid>http://localhost:1313/about/about/</guid>
+      <guid>https://vladisl0th.github.io/about/about/</guid>
       <description>Hack The Planet! So I have finally decided to join the ranks of web developers, ditching the previous notion of using bloated dynamic sites (I&amp;rsquo;m looking at you WordPress), I have circum to suckless web development and I can finally focus on writing instead of having to centre divs.&#xA;If you don&amp;rsquo;t already know me, I am Vlad. I like computers, this website will serve as a repository for my personal notes and explorations into the vast and vastly exciting world of computer science, and beyond!</description>
     </item>
   </channel>
